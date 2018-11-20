@@ -1,1 +1,1 @@
-# Travis-Digital-Ocean
+# Travis CI + Digital Ocean (CI / CD)
